@@ -2,9 +2,12 @@
 
 ## Author
 
-**Name:** Your Name
-**College:** Your College Name
+**Name:** Matteddula Mayuri
+
+**College:** Sri Venkateswara College of Engineering
+
 **Internship:** Machine Learning Internship
+
 **Task Number:** Task 1 – Iris Classification
 
 ---
@@ -117,17 +120,6 @@ Input:
 Predicted Output:
 
 `Iris-setosa`
-
----
-
-## Project Files
-
-* Iris_classification.ipynb
-* IRIS.csv
-* iris_model.pkl
-* Executive_Summary.pdf
-* README.md
-* Screenshots
 
 ---
 
